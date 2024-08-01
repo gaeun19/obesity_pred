@@ -30,7 +30,7 @@ engine = create_engine(f'mysql+pymysql://{USER}:{PASSWD}@{HOST}/MySQL')
 # 4. Weight :연속형
 # 5. family_history_with_overweight (가족 중 비만 여력 ) : False, True
 # 6. FCVC (하루 아채 소비 정도) : 연속형
-client = OpenAI()
+client = OpenAI(OPENAI_API_KEY)
 
 ## streamlit 앱 레이아웃
 st.title('비만도 예측 및 운동, 식단 추천')
