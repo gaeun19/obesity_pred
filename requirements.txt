@@ -80,8 +80,6 @@ PyMySQL==1.1.1
 pyparsing==3.1.2
 python-dateutil
 python-dotenv==1.0.1
-pytz==2024.1
-pywin32==305.1
 PyYAML==6.0.1
 pyzmq
 referencing==0.35.1
