@@ -37,7 +37,8 @@ Data Reference
 
 - openai.OpenAIError
     
-    ![Untitled](Obesity%20Prediction%20&%20Solution%20b85586ba05e74a7a86e9eeb15e946e3c/Untitled.png)
+    ![Untitled](https://github.com/user-attachments/assets/3cca41f9-1c4e-418b-885e-acee450b838f)
+
     
     - 원인 1 : requirments.txt 오류
         - pip freeze >> requirments.txt로 해서 생성
@@ -51,8 +52,7 @@ Data Reference
     
 - git push 에러
     - 상황 : git push origin main 후 에러 발생
-        
-        ![Untitled](Obesity%20Prediction%20&%20Solution%20b85586ba05e74a7a86e9eeb15e946e3c/Untitled%201.png)
+        ![Untitled (1)](https://github.com/user-attachments/assets/1c54b15f-ad6d-4818-a03d-69582c34b0e4)
         
     - 원인 : .env 파일에 OpenApiKey 존재 & .gitignore 파일이 뒤늦게 올라감
         - .gitignore 파일이 정상작동 하지 못함.
