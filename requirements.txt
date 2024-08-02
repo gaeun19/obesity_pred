@@ -8,7 +8,7 @@ openpyxl
 html5lib
 beautifulsoup4
 numpy==2.0.1
-openai==1.37.1
+openai
 openpyxl==3.1.5
 pandas==2.2.2
 PyMySQL==1.1.1
